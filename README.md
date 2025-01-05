@@ -33,27 +33,3 @@ The application is designed to enhance tourism management by streamlining the au
    - **Delete Car**: Administrators have the option to delete cars from the inventory if they are no longer available or required.
 
 2. **Booking Management**: The application includes a dedicated module for handling bookings. Administrators can view and manage bookings, including approving or rejecting requests, managing rental dates, and tracking customer details. Security enhancements ensure that sensitive routes are protected from unauthenticated access, allowing only valid, token-bearing requests.
-
-
-## Installation
-
-To install and run the automobile leasing Application locally, follow these steps:
-
-1. Clone the repository
-2. Change to the project directory
-3. Install server-side dependencies: `npm install`
-4. Change to the client directory: `cd client`
-5. Install client-side dependencies: `npm install`
-6. Return to the project directory: `cd ..`
-7. Update the environment variables with your own configuration.
-8. Start the application: `npm run dev`
-
-Make sure to set up the required environment variables in the `.env` file before running the application.
-
-## Contributing
-
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please submit an issue or create a pull request.
-
-## Authors
-
-- [Your Name](https://github.com/javesshhh)
